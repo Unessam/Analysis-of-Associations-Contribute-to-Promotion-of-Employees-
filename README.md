@@ -1,4 +1,4 @@
 # Analysis-of-Associations-Contribute-to-Promotion-of-Employees-
 ## Introduction
 #### HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources have been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. However recently, this department joined the movement towards new approaches for processing and analysis of data through the application of Datamining (Abhinav Rai, 2019). 
-The main purpose of this assignment is to investigate whether there is any Association between promotion of an employee and other features such as sex, age, length of service, KPI score, etc., and if there is, what those features are.
+#### The main purpose of this assignment is to investigate whether there is any Association between promotion of an employee and other features such as sex, age, length of service, KPI score, etc., and if there is, what those features are.
